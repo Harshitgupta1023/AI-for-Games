@@ -8,7 +8,7 @@ Created on : March 2020
 Contributors:
 
         1) Maruf Hussain
-        2) Harshil Gupta
+        2) Harshit Gupta
         3) Tarun Tomar
 
 """
